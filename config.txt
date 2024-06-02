@@ -1,0 +1,4 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+a1	/users/pohjanle/fungi/a1_1.fq.gz	/users/pohjanle/fungi/a1_2.fq.gz
+a2	/users/pohjanle/fungi/a2_1.fq.gz	/users/pohjanle/fungi/a2_2.fq.gz
+a3	/users/pohjanle/fungi/a3_1.fq.gz	/users/pohjanle/fungi/a3_2.fq.gz
